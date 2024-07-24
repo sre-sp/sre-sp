@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sre-sp
 - 👀 I’m interested in infra as code, python and AWS. Outside work, my interests are playing Tennis, watching F1, cycling with my daughter to the park.
-- 🌱 I’m currently learning to master coding and some drone programming
+- 🌱 I’m currently focussed on improving my coding skills trying out things on my drone.
 - 💞️ I’m looking to collaborate on anything that needs automation on infrastructure deployment in AWS
 
 
